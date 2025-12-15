@@ -1,0 +1,25 @@
+# Expanso local data
+.data/
+.bin/
+
+# Temp files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.specstory/
