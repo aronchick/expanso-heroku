@@ -39,7 +39,7 @@ function App() {
           </div>
           <div className="flex items-center gap-2">
             <Button variant="ghost" size="sm" asChild>
-              <a href="https://expanso.io" target="_blank" rel="noopener noreferrer">
+              <a href="https://docs.expanso.io" target="_blank" rel="noopener noreferrer">
                 Expanso Docs
               </a>
             </Button>
